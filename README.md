@@ -51,7 +51,7 @@ I am actively honing my coding skills on platforms like Hackerrank, where I solv
 - **Tools**: Jupyter Notebook, Git, SQL
 
 ## Let's Connect!
-- **HackerRank**: [HackerRank Profile](https://[www.hackerrank.com/profile/kaverireddy5757))
+- **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/profile/kaverireddy5757)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/kaveri-reddy-79065a2a9)
 
 Feel free to explore my projects and reach out if you have any questions, suggestions, or opportunities for collaboration!
