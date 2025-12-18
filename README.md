@@ -41,7 +41,7 @@ Below are some of the key projects in this repository:
 
 I am a data science enthusiast with a strong foundation in statistics, machine learning, and data analytics. My journey in data science is fueled by a passion for continuous learning and solving real-world problems. I enjoy diving deep into data, building models, and deriving insights that drive decision-making.
 
-I am actively honing my coding skills on platforms like [HackerRank](https://www.hackerrank.com/profile/suhasreddy53), where I solve algorithm and data structure challenges to sharpen my technical skills.
+I am actively honing my coding skills on platforms like Hackerrank, where I solve algorithm and data structure challenges to sharpen my technical skills.
 
 ## Skills and Tools
 - **Programming Languages**: Python, R
@@ -51,8 +51,7 @@ I am actively honing my coding skills on platforms like [HackerRank](https://www
 - **Tools**: Jupyter Notebook, Git, SQL
 
 ## Let's Connect!
-- **GitHub**: [SRT53](https://github.com/SRT53/Data_Science_Portfolio)
-- **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/profile/suhasreddy53)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/suhaas-reddy-thakkala-b87963193)
+- **HackerRank**: [HackerRank Profile](https://[www.hackerrank.com/profile/kaverireddy5757))
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/kaveri-reddy-79065a2a9)
 
 Feel free to explore my projects and reach out if you have any questions, suggestions, or opportunities for collaboration!
